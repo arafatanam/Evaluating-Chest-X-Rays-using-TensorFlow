@@ -14,7 +14,6 @@ It follows the workflow demonstrated in the YouTube tutorial:
 Medical-AI/
 │
 ├── chest_xray.ipynb       # Jupyter Notebook (main code)
-├── Cardiomegaly.zip       # Exported trained model (zipped)
 └── README.md              # Project documentation
 
 ````
